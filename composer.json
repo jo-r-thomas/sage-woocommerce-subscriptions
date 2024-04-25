@@ -1,13 +1,12 @@
 {
-  "name": "blavetstudio/sage-woocommerce-subscriptions",
+  "name": "jo-r-thomas/sage-woocommerce-subscriptions",
   "type": "library",
   "license": "MIT",
   "description": "",
-  "homepage": "https://github.com/blavetstudio/sage-woocommerce-subscriptions",
+  "homepage": "https://github.com/jo-r-thomas/sage-woocommerce-subscriptions",
   "authors": [
     {
-      "name": "Carlos Faria",
-      "email": "carlos@blavetstudio.com"
+      "name": "Jo Thomas",
     }
   ],
   "autoload": {

@@ -2,7 +2,7 @@
 
 namespace Blavetstudio\Sage\WooCommerceSubscriptions;
 
-use Roots\Acorn\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 class WooCommerceSubscriptionsServiceProvider extends ServiceProvider
 {
