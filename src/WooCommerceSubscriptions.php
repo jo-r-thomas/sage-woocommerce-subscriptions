@@ -11,6 +11,10 @@ use function Roots\view;
 
 class WooCommerceSubscriptions
 {
+    protected ContainerContract $app;
+    protected FileViewFinder $fileFinder;
+    protected ViewFinder $sageFinder;
+
     public function __construct(
         ViewFinder $sageFinder,
         FileViewFinder $fileFinder,
